@@ -27,6 +27,8 @@ Tools: Excel, SharePoint, Power Query
 📖 Certifications:
 
 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+Credential ID1100209146
+
 Currently studying for CompTIA Data+ (DA0-001) and Azure DP-203.
 <!---
 Hlhodges6563/Hlhodges6563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
