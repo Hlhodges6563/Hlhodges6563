@@ -12,12 +12,17 @@ where I developed a deep appreciation for the power of analytics.
 
 Currently, I'm a BI Analyst at Refresco, where I create dynamic Power BI dashboards to streamline supply chain operations.
 Previous roles include Operations Manager and Intermodal Pricing Analyst at JB Hunt, where I gained hands-on experience in logistics and cost analysis.
+
 🛠️ Skills:
 
 Data visualization: Power BI, Tableau
+
 Programming: Python (Pandas, NumPy, Matplotlib)
+
 Data management: SQL, SAP
+
 Tools: Excel, SharePoint, Power Query
+
 
 📖 Certifications:
 
