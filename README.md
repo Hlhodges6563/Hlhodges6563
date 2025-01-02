@@ -2,7 +2,9 @@ Hello! My name is Hannah, a passionate Business Intelligence Analyst and aspirin
 My work focuses on leveraging tools like Power BI, Python, and advanced analytics to drive decision-making and improve operations.
 
 🌟 About Me
+
 🎓 Background:
+
 I hold a B.S. in Human Nutrition from the University of Arkansas, Fayetteville. My journey into the world of data began with roles in supply chain management and operations, 
 where I developed a deep appreciation for the power of analytics.
 
