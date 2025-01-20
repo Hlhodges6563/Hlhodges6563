@@ -1,4 +1,4 @@
-Hello! My name is Hannah, a passionate Business Intelligence Analyst and aspiring Data Professional with a knack for turning data into actionable insights. 
+Hello! My name is Hannah, a passionate Business Intelligence Analyst and Data Professional with a knack for turning data into actionable insights. 
 My work focuses on leveraging tools like Power BI, Python, and advanced analytics to drive decision-making and improve operations.
 
 🌟 About Me
@@ -17,7 +17,7 @@ Previous roles include Operations Manager and Intermodal Pricing Analyst at JB H
 
 Data visualization: Power BI, Tableau
 
-Programming: Python (Pandas, NumPy, Matplotlib)
+Programming: Python (Pandas, NumPy, Matplotlib) R Language
 
 Data management: SQL, SAP
 
@@ -27,9 +27,10 @@ Tools: Excel, SharePoint, Power Query
 📖 Certifications:
 
 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-Credential ID1100209146
+Credential ID: 1100209146
 
-Currently studying for CompTIA Data+ (DA0-001) and Azure DP-203.
+CompTIA Certified: Data+
+Credential ID: COMP001022535212
 <!---
 Hlhodges6563/Hlhodges6563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
